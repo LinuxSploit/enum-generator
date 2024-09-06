@@ -1,0 +1,2 @@
+StatusAccepted = 0
+StatusRejected = 1
